@@ -1,0 +1,36 @@
+*{
+  margin: 10px;
+  padding: 10px;
+}
+
+h1{
+  align: center;
+  font-family: arial; sans-serif;
+  border: 1px solid blue;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+
+.survey-form{
+  background: #7dc9f2;
+  border: thin solid black;
+  margin-left: 30px;
+  margin-right: 20px;
+  text-align: left
+  font-family: Arial;
+}
+
+.title{
+  text-align: center;
+  font-weight: bold;
+  font-family:  arial, helvetica, sans-serif;
+}
+
+input[type=submit]{
+  width:200px;
+  font-size:20px;
+  border: solid black;
+  border-radius: 5px;
+
+}
